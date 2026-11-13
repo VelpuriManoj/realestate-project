@@ -11,7 +11,7 @@ const trustPoints = [
   "Seamless & Stress-Free Process",
 ];
 
-const trustImage = "/images/ChatGPT Image Sep 16, 2026, 05_35_21 PM (1).png";
+const trustImage = "/images/trust-section.png";
 
 export function TrustSection() {
   return (
