@@ -1,5 +1,5 @@
 // Site-wide brand constants. Edit here to rebrand.
-export const SITE_NAME = "TEST";
+export const SITE_NAME = "Realestate";
 export const SITE_TAGLINE = "Build your dream. Invest in your future.";
 export const CURRENT_YEAR = new Date().getFullYear();
 

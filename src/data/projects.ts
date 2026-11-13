@@ -12,7 +12,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: "green-valley",
-    name: "TEST Green Valley",
+    name: "Realestate Green Valley",
     location: "Kondapur, Hyderabad",
     type: "Residential Villas",
     status: "Ready to Move",
@@ -23,7 +23,7 @@ export const projects: Project[] = [
   },
   {
     id: "urban-heights",
-    name: "TEST Urban Heights",
+    name: "Realestate Urban Heights",
     location: "Gachibowli, Hyderabad",
     type: "High-Rise Apartments",
     status: "Under Construction",
@@ -34,7 +34,7 @@ export const projects: Project[] = [
   },
   {
     id: "premium-enclave",
-    name: "TEST Premium Enclave",
+    name: "Realestate Premium Enclave",
     location: "Shamshabad, Hyderabad",
     type: "Gated Community Plots",
     status: "Upcoming",
@@ -45,7 +45,7 @@ export const projects: Project[] = [
   },
   {
     id: "riverside-court",
-    name: "TEST Riverside Court",
+    name: "Realestate Riverside Court",
     location: "Nizampet, Hyderabad",
     type: "Residential Apartments",
     status: "Under Construction",
@@ -56,7 +56,7 @@ export const projects: Project[] = [
   },
   {
     id: "orchard-residency",
-    name: "TEST Orchard Residency",
+    name: "Realestate Orchard Residency",
     location: "Kompally, Hyderabad",
     type: "Independent Homes",
     status: "Ready to Move",
@@ -67,7 +67,7 @@ export const projects: Project[] = [
   },
   {
     id: "skyline-residences",
-    name: "TEST Skyline Residences",
+    name: "Realestate Skyline Residences",
     location: "Kokapet, Hyderabad",
     type: "Premium Apartments",
     status: "Upcoming",

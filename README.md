@@ -1,4 +1,4 @@
-# TEST — Real Estate Website
+# Realestate — Real Estate Website
 
 A fully static real-estate marketing site built with React, TypeScript, Tailwind CSS, Framer Motion, and Lucide icons. No backend, database, API, or authentication — everything runs from static frontend files, with `tel:` and `mailto:` links for contact actions.
 

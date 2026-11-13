@@ -31,7 +31,7 @@ export const faqItems: FaqItem[] = [
   },
   {
     id: "faq-5",
-    question: "How can I contact TEST?",
+    question: "How can I contact Realestate?",
     answer:
       "You can reach us directly by phone or email — both are listed in the Contact section below and in the footer of this page.",
   },
